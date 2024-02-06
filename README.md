@@ -6,14 +6,14 @@ Sample repository for assignment.
 
 ## Main assignment objective
 
-- Create any other event that will invoke your serverless application (at least 2 event) on your serverless application.
+### Create any other event that will invoke your serverless application (at least 2 event) on your serverless application.
 
 Invoke events listed within `outputs.tf`
 
-Event 1 (List the API Gateway URL)
+- Event 1 (List the API Gateway URL)
 
-Event 2 (List the function ARN)
+- Event 2 (List the function ARN)
 
-Event 3 (List the function name)
+- Event 3 (List the function name)
 
 Reference: https://www.antstack.com/blog/deploy-serverless-application-with-aws-lambda-using-terraform/
